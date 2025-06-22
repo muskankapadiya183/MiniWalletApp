@@ -1,0 +1,5 @@
+/venvWallet/*
+/WalletApp/user/__pycache__/*
+/WalletApp/WalletApp/__pycache__/*
+/WalletApp/user/migrations/__pycache__/*
+/WalletApp/.env
